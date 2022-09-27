@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Applicant</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Applicant</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About Me Yueming Yang
+Shandong University|SDU · School of Energy and Power Engineering
+Master Degree Candidate
+Research Interest Yueming Yang research interests are the design, simulation, and optimization of supercritical CO2 (SCO2) radial inflow turbines and centrifugal compressors; physical properties of working fluids in SCO2 power cycles; and modeling of fluid- and thermo- dynamic systems (mainly the SCO2 Brayton cycles).
+Education 2016.9 – 2020.6 Bachelor&amp;rsquo;s Degree in Engineering
+College of Mechanical and Electronic Engineering, Shandong University of Science and Technology</description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://example.com/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score</title>
+      <link>https://example.com/score/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/score/</guid>
+      <description>Academic Transcript for Undergraduate Student Academic Transcript for Graduate Student IELTS (Academic) </description>
+    </item>
+    
+  </channel>
+</rss>
