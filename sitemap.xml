@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuemingsdu.github.io/</loc>
+    <loc>uildDrafts/</loc>
   </url><url>
-    <loc>https://yuemingsdu.github.io/about/</loc>
+    <loc>uildDrafts/about/</loc>
   </url><url>
-    <loc>https://yuemingsdu.github.io/life/</loc>
+    <loc>uildDrafts/life/</loc>
   </url><url>
-    <loc>https://yuemingsdu.github.io/score/</loc>
+    <loc>uildDrafts/score/</loc>
   </url>
 </urlset>
